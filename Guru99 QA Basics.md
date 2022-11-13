@@ -47,6 +47,7 @@ Software Testing is important because bugs are dangerous. If we don't test in al
   <img width="822" alt="Screen Shot 2022-11-13 at 1 19 13 PM" src="https://user-images.githubusercontent.com/95491541/201538200-e2bbbf1d-1b5b-4f31-85ba-85668d864934.png">
  </p>
  Advantage: There is a corresponding testing phase for each development stage 
+ <br>
  Disadvantage: still not reliable than Agile because testing is executed once the development stage is finished. For agile, testing is carried alongside the development phase. Testers and Developers work together.
 
  
@@ -55,6 +56,7 @@ Software Testing is important because bugs are dangerous. If we don't test in al
   <img width="772" alt="Screen Shot 2022-11-13 at 1 19 30 PM" src="https://user-images.githubusercontent.com/95491541/201540188-eb038742-18bc-4ac0-b1a9-a0b7c94165b6.jpeg">
   </p>
   How it works: for each phase (one functionality), go through the process (Requirement -> Design -> Build -> Test-> Maintenance)
+  <br>
   Advantage: Progressive testing, which allows testers to find bugs easily, flexible to changes
 
 
