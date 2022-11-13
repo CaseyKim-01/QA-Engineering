@@ -29,9 +29,9 @@ Software Testing is important because bugs are dangerous. If we don't test in al
   - "repeated same test cases --> decrease the chance of discovering new bugs"
 
 6. Testing is context dependent
-  - depends on what we are testing 
+  - Depends on what we are testing 
 
 7. Absence of errors - fallacy
-  - user's want should not be ignored just because we want to remove all errors
+  - User's want should not be ignored just because we want to remove all errors
 
 
