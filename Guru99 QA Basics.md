@@ -52,7 +52,7 @@ Software Testing is important because bugs are dangerous. If we don't test in al
  
 ### Agile Method (Iterative)
 <p>
-  ![agile](https://user-images.githubusercontent.com/95491541/201538228-e8c164c9-0654-4249-bac9-7547f171dbc6.jpeg)
+  <img width="772" alt="Screen Shot 2022-11-13 at 1 19 30 PM" src="https://user-images.githubusercontent.com/95491541/201540188-eb038742-18bc-4ac0-b1a9-a0b7c94165b6.jpeg">
   </p>
   How it works: for each phase (one functionality), go through the process (Requirement -> Design -> Build -> Test)
  Advantage: Progressive testing, which allows testers to find bugs easily, flexible to changes
