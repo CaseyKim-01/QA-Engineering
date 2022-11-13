@@ -35,3 +35,12 @@ Software Testing is important because bugs are dangerous. If we don't test in al
   - User's want should not be ignored just because we want to remove all errors
 
 
+### Methodologies
+## Waterfall Method (Linear)
+<p>
+  <img width="772" alt="Screen Shot 2022-11-13 at 1 19 30 PM" src="https://user-images.githubusercontent.com/95491541/201538209-505247a8-0f5c-4027-beab-c75782e82f1c.png">
+ </p>
+ Disadvantage: Testing happens so late. If bugs are found then, it takes time + cost to "restart"
+## Agile Method (Iterative)
+
+
