@@ -14,7 +14,7 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 1. Testing shows the presence of defects
 
 2. Exhaustive testing is impossible
-  \t- We should come up with optimal amount of testing based on risk assessment
+  - We should come up with optimal amount of testing based on risk assessment
   - The scenario where there is a higher risk of bugs, create more test cases on that
 
 3. Defect Clustering
