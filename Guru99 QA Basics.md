@@ -40,6 +40,8 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 <p>
   <img width="772" alt="Screen Shot 2022-11-13 at 1 19 30 PM" src="https://user-images.githubusercontent.com/95491541/201538209-505247a8-0f5c-4027-beab-c75782e82f1c.png">
  </p>
+ Advantage: structured, planned, easy to manage (good for small projects)
+ <br>
  Disadvantage: Testing happens so late. If bugs are found then, it takes time + cost to "restart"
 
 ### V-Model (V-shaped)
@@ -55,8 +57,8 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 <p>
   <img width="772" alt="Screen Shot 2022-11-13 at 1 19 30 PM" src="https://user-images.githubusercontent.com/95491541/201540188-eb038742-18bc-4ac0-b1a9-a0b7c94165b6.jpeg">
   </p>
-  How it works: for each phase (one functionality), go through the process (Requirement -> Design -> Build -> Test-> Maintenance)
+  How it works: for each phase (adding one functionality to the working version), go through the process (Requirement -> Design -> Build -> Test-> Maintenance)
   <br>
-  Advantage: Progressive testing, which allows testers to find bugs easily, flexible to changes
+  Advantage: Progressive testing, which allows testers to find bugs easily, flexible to changes, reduce risk
 
 
