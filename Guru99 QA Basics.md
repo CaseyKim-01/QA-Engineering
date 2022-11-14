@@ -48,6 +48,8 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 <p>
   <img width="822" alt="Screen Shot 2022-11-13 at 1 19 13 PM" src="https://user-images.githubusercontent.com/95491541/201538200-e2bbbf1d-1b5b-4f31-85ba-85668d864934.png">
  </p>
+ SDLC --> Verification  STLC --> Validation (improved version of waterfall method)
+ <br>
  Advantage: There is a corresponding testing phase for each development stage 
  <br>
  Disadvantage: still not reliable than Agile because testing is executed once the development stage is finished. For agile, testing is carried alongside the development phase. Testers and Developers work together.
