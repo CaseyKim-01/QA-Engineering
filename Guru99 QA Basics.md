@@ -63,4 +63,9 @@ Software Testing is important because bugs are dangerous. If we don't test in al
   <br>
   Advantage: Progressive testing, which allows testers to find bugs easily, flexible to changes, reduce risk
 
+## Unit Testing
+- Unit testing is the earliest testing stage in V-model. Practiced after coding phase 
+- also called component testing 
+- ex) Login System (possible cases: valid ID, invalid ID, empty ID and click Login...)
+- meant to be developer's work but testers usually do it
 
