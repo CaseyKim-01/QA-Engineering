@@ -97,3 +97,13 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - In the Maintenance Stage, code modifications, function updates, testing enhancements happen.
 - Regression testing is used to check if those modications have caused unintended side-effects on the system
 - Basically, if the software works as expected even after modifications
+
+
+## Non-Functional Testing 
+- tests performance, usability, endurance, load factor ...
+- Performance testing: check system response time. The goal is to reduce the response time 
+- Load testing: check the system performance at different loads. Here, the load means the number of people accessing the system 
+
+## Types of Testing 
+
+![IMG_35ED92711CDA-1](https://user-images.githubusercontent.com/95491541/201810713-1053944b-5393-45a3-9068-50a81cbb0a79.jpeg)
