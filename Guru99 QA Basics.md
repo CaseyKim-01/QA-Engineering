@@ -91,3 +91,9 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - Possible scenario: when the testers began system testing, they found a defect in earlier module that keep them from moving on to testing the next modules
 - Then, the project gets delayed! since the developers must fix the issues before the testing can resume 
 - SO! we practice smoke/sanity testing to check the critical functionalities of the system before it is accepted for major testing.
+
+
+## Regression Testing 
+- In the Maintenance Stage, code modifications, function updates, testing enhancements happen.
+- Regression testing is used to check if those modications have caused unintended side-effects on the system
+- Basically, if the software works as expected even after modifications
