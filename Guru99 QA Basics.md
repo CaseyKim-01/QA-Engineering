@@ -69,3 +69,13 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - ex) Login System (possible cases: valid ID, invalid ID, empty ID and click Login...)
 - meant to be developer's work but testers usually do it
 
+## System Testing 
+- System testing is the next stage after unit testing
+- It is about testing the system as a whole, just how a user would use the software
+- ex) Login -> check balance -> transfer money -> Logout
+
+## Acceptance Testing 
+- done at the client's location by the clients 
+- purpose: check whether the software meets their requirements, not to find defects
+- 1) alpha testing - done by a small set of employees 
+- 2) beta testing - done by a small set of real customers
