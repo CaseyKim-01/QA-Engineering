@@ -85,3 +85,9 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - ex) current balance module <-> transfer module (두개가 통신이 잘되는지, 내가 1000불 있었는데 500불 송금하면 500불이 잘 빠져나가는지 확인)
 - 1) Big-Bang approach: wait until all modules are developed --> takes too much time + difficult to find bugs 
 - 2) Incremental approach: test module when they are available by using stubs and drivers (data transfer 확인하고 싶을때 아직 안만들어놓은 module을 stub라는 임시대체품으로 대신해서 module간의 data transfer를 테스트한다. 여기서도 top-down은 higher level modules먼저 만드는것. bottom-up은 그 반대.
+
+
+## Smoke/Sanity Testing 
+- Possible scenario: when the testers began system testing, they found a defect in earlier module that keep them from moving on to testing the next modules
+- Then, the project gets delayed! since the developers must fix the issues before the testing can resume 
+- SO! we practice smoke/sanity testing to check the critical functionalities of the system before it is accepted for major testing.
