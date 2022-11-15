@@ -70,7 +70,7 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - meant to be developer's work but testers usually do it
 
 ## System Testing 
-- System testing is the next stage after unit testing
+- System testing is the next stage after integration testing 
 - It is about testing the system as a whole, just how a user would use the software
 - ex) Login -> check balance -> transfer money -> Logout
 
@@ -79,3 +79,9 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - purpose: check whether the software meets their requirements, not to find defects
 - 1) alpha testing - done by a small set of employees 
 - 2) beta testing - done by a small set of real customers
+
+## Integration Testing 
+- tests the data transfer between modules 
+- ex) current balance module <-> transfer module (두개가 통신이 잘되는지, 내가 1000불 있었는데 500불 송금하면 500불이 잘 빠져나가는지 확인)
+- 1) Big-Bang approach: wait until all modules are developed --> takes too much time + difficult to find bugs 
+- 2) Incremental approach: test module when they are available by using stubs and drivers (data transfer 확인하고 싶을때 아직 안만들어놓은 module을 stub라는 임시대체품으로 대신해서 module간의 data transfer를 테스트한다. 여기서도 top-down은 higher level modules먼저 만드는것. bottom-up은 그 반대.
