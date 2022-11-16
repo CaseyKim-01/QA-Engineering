@@ -163,3 +163,6 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 
 <img width="912" alt="Screen Shot 2022-11-16 at 9 12 16 AM" src="https://user-images.githubusercontent.com/95491541/202203458-5c2bea6d-b9d2-456d-9781-b159b4b30339.png">
 
+## Use Case Testing
+- A use case is a series of actions taken by a certain actor that interacts with the system to reach a goal. 
+- helps to identify test cases that cover the entire system, on a transaction by transaction basis, from start to finish. It is a description of a particular use of the system by a user.
