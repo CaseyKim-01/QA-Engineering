@@ -149,4 +149,4 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 ### Decision Table Testing 
 - deals with combination of inputs which produce different results
 - becomes useful as the number of inputs increases
-- # all possible test cases: 2^n. Therefore, by using a decision table, we can choose a good subset to test each condition 
+- number of all possible test cases: 2^n. Therefore, by using a decision table, we can choose a good subset to test each condition 
