@@ -130,3 +130,16 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - So! label each test case with its Req# (according to each functionality) --> Traceability
   1. when a test case fails, traceability helps us easily find the corresponding functionality
   2. ensures that all functionalities/requirements are tested 
+
+## How to choose test cases/data?
+- Since exhaustive testing is impossible, we need to choose which to test 
+### Equivalence partitioning 
+- black box technique (code is invisible to testers) applicable to all levels of testing 
+- Divide the possible values into groups/partitions and pick one value from each partition for testing 
+- Then, if one condition in the partition passes, assume that other values in the same partition will also have the same result
+![IMG_707FC8D71096-1](https://user-images.githubusercontent.com/95491541/202199899-e0a3de14-2d9e-476d-b452-d28178ef9288.jpeg)
+
+### Boundary Value Analysis 
+- test boundary values between partitions
+- also called "range checking" 
+![IMG_94472E4AAD8E-1](https://user-images.githubusercontent.com/95491541/202199952-51b6bb3f-960e-4708-8115-80375123693b.jpeg)
