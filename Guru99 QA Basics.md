@@ -122,3 +122,5 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - Test scenario, test case, pre-conditions, test steps, test data, expected result, actual result, pass/fail 
 <img width="1204" alt="Screen Shot 2022-11-15 at 9 33 12 PM" src="https://user-images.githubusercontent.com/95491541/202069703-4e607c66-6e84-46c1-827d-4d9a636f1707.png">
 
+<img width="903" alt="Screen Shot 2022-11-15 at 9 37 30 PM" src="https://user-images.githubusercontent.com/95491541/202070085-f20e34cb-ce8f-49b7-9fe9-69a49578e2a8.png">
+
