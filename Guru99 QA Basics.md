@@ -150,3 +150,16 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - deals with combination of inputs which produce different results
 - becomes useful as the number of inputs increases
 - number of all possible test cases: 2^n. Therefore, by using a decision table, we can choose a good subset to test each condition 
+
+## State Transitioning Diagram (similar to automata)
+- helpful where we need to test different system transitions
+- 4 main components 
+1) states that software may occupy
+2) transition from one state to another 
+3) events that cause transition
+4) action resulted from events
+
+<img width="912" alt="Screen Shot 2022-11-16 at 9 09 25 AM" src="https://user-images.githubusercontent.com/95491541/202203454-cbfdc6b4-0b53-4fa8-a7f7-0f6761c2c9f9.png">
+
+<img width="912" alt="Screen Shot 2022-11-16 at 9 12 16 AM" src="https://user-images.githubusercontent.com/95491541/202203458-5c2bea6d-b9d2-456d-9781-b159b4b30339.png">
+
