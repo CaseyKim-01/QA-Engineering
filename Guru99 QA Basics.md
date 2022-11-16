@@ -112,3 +112,13 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - any functionality of a software that can be tested 
 - also called Test Condition/Possibility
 - Test Prioritization: since exhaustive testing is impossible, we should first test the essential functionalities.
+
+## Test Basis
+- To create test cases, we need to base our ideas on something 
+- We can rely on AUT (application under testing), our experience, and most importantly Documents
+- For each phase of development, look at Document and create test cases based on that 
+
+## How to write a test case 
+- Test scenario, test case, pre-conditions, test steps, test data, expected result, actual result, pass/fail 
+<img width="1204" alt="Screen Shot 2022-11-15 at 9 33 12 PM" src="https://user-images.githubusercontent.com/95491541/202069703-4e607c66-6e84-46c1-827d-4d9a636f1707.png">
+
