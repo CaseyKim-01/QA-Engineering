@@ -143,3 +143,10 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - test boundary values between partitions
 - also called "range checking" 
 ![IMG_94472E4AAD8E-1](https://user-images.githubusercontent.com/95491541/202199952-51b6bb3f-960e-4708-8115-80375123693b.jpeg)
+
+- Both methods are used together!
+
+### Decision Table Testing 
+- deals with combination of inputs which produce different results
+- becomes useful as the number of inputs increases
+- # all possible test cases: 2^n. Therefore, by using a decision table, we can choose a good subset to test each condition 
