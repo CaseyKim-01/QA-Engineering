@@ -107,3 +107,8 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 ## Types of Testing 
 
 ![IMG_35ED92711CDA-1](https://user-images.githubusercontent.com/95491541/201810713-1053944b-5393-45a3-9068-50a81cbb0a79.jpeg)
+
+## Test Scenario 
+- any functionality of a software that can be tested 
+- also called Test Condition/Possibility
+- Test Prioritization: since exhaustive testing is impossible, we should first test the essential functionalities.
