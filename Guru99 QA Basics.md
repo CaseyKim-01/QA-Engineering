@@ -166,3 +166,23 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 ## Use Case Testing
 - A use case is a series of actions taken by a certain actor that interacts with the system to reach a goal. 
 - helps to identify test cases that cover the entire system, on a transaction by transaction basis, from start to finish. It is a description of a particular use of the system by a user.
+
+## Testing Review
+- part of "Static Testing" --> software testing technique which is used to check defects in software application without executing the code
+- meeting for reviewing software work product (it can be a functional design document)
+- helps us detect defects or additional necessary features in the early stage of development 
+1. Planning
+2. Kick-off
+3. Review meeting
+4. Rework
+5. Follow-up 
+
+## Test Estimation 
+- estimating how long it will take to test each functionality
+- Work Breakdown Structure Report
+
+## Test Plan 
+- a detailed document that describes the test strategy, objectives, schedule, estimation, deliverables, and resources required to perform testing for a software product
+- choose what type of testing will be practiced (in scope, out of scope)
+- identify risks and set up a mitigation plan 
+<img width="874" alt="Screen Shot 2022-11-17 at 12 46 20 PM" src="https://user-images.githubusercontent.com/95491541/202519848-7c238bab-4aca-456d-a30f-814ac7c87fb9.png">
