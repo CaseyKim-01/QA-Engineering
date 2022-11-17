@@ -185,4 +185,5 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - a detailed document that describes the test strategy, objectives, schedule, estimation, deliverables, and resources required to perform testing for a software product
 - choose what type of testing will be practiced (in scope, out of scope)
 - identify risks and set up a mitigation plan 
+- It is like a **rule book**, which needs to be followed
 <img width="874" alt="Screen Shot 2022-11-17 at 12 46 20 PM" src="https://user-images.githubusercontent.com/95491541/202519848-7c238bab-4aca-456d-a30f-814ac7c87fb9.png">
