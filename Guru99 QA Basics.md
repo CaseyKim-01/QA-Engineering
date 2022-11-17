@@ -187,3 +187,15 @@ Software Testing is important because bugs are dangerous. If we don't test in al
 - identify risks and set up a mitigation plan 
 - It is like a **rule book**, which needs to be followed
 <img width="874" alt="Screen Shot 2022-11-17 at 12 46 20 PM" src="https://user-images.githubusercontent.com/95491541/202519848-7c238bab-4aca-456d-a30f-814ac7c87fb9.png">
+
+## Bug Report
+
+<img width="874" alt="Screen Shot 2022-11-17 at 1 03 54 PM" src="https://user-images.githubusercontent.com/95491541/202523852-d06e29bc-4482-48a9-b391-531ad3d0b4c5.png">
+- == Bug Report: information needed to be conveyed so that developers can understand what to fix
+- Also include Severity and Priority 
+i) e.g. a wrong logo --> high priority, low severity
+ii) e.g. email-function crash --> low priority, high severity
+
+## Defect Lifecycle
+
+<img width="569" alt="Screen Shot 2022-11-17 at 1 15 47 PM" src="https://user-images.githubusercontent.com/95491541/202525529-6c4f2c1a-0ac4-4123-aa7b-4c2a7cb17cc9.png">
