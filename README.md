@@ -1,4 +1,4 @@
-# QA-Engineering
+# SQA-Engineering
 - This is a repository where I keep track of my progress as a QA engineer. 
 
 ## Progress
