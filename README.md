@@ -7,9 +7,15 @@
 - End date: 11/17/2022
 - How: watch and take notes on https://www.youtube.com/watch?v=TDynSmrzpXw&list=PLDC2A0C8D2EC934C7 
 
-2. Get some experience in testing real projects through online live manual testing platform 
-- Start date:
-- End date:
-- How: apply to https://www.guru99.com/live-testing-project.html
+2. Learn Agile Scrum in Jira 
+- Start date: 11/29/2022
+- End date: 
+- How: study "MasterClass Software Testing with Jira & Agile -Be a QA Lead" on Udemy
+
+3. Practice Project 
+- Start date: 12/10/2022
+- End date: 
+- How: Test "GetMobile" app, write tests on Xray-Jira
+
 
 
