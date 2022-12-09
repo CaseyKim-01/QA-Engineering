@@ -13,9 +13,14 @@
 - How: study "MasterClass Software Testing with Jira & Agile -Be a QA Lead" on Udemy
 
 3. Practice Project 
-- Start date: 12/10/2022
-- End date: 
-- How: Test "GetMobile" app, write tests on Xray-Jira
+- Start date: 12/7/2022
+- End date: 12/10/2022
+- How: Test "GetMobile" app, write tests on Xray-Jira, issue bug reports if bugs are found
+
+4. Start applying to Manual QA internships 
+
+
+5. Learn Selenium automation testing 
 
 
 
