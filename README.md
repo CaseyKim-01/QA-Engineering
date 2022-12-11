@@ -12,9 +12,9 @@
 - End date: 
 - How: study "MasterClass Software Testing with Jira & Agile -Be a QA Lead" on Udemy
 
-3. Practice Project 
+3. Practice Project https://iamcaseyda.atlassian.net/jira/software/c/projects/GMT/boards/5?atlOrigin=eyJpIjoiMGVlMWU1ODcwMDUwNDQzNzhiZjA4Y2I4ZDk2YjhhYmMiLCJwIjoiaiJ9 
 - Start date: 12/7/2022
-- End date: 12/10/2022
+- End date: 12/11/2022
 - How: Test "GetMobile" app, write tests on Xray-Jira, issue bug reports if bugs are found
 
 4. Start applying to Manual QA internships 
